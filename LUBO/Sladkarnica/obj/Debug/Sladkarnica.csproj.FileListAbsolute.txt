@@ -1,0 +1,8 @@
+C:\Users\STUDENTS-1\3D Objects\Lubo 11d\LUBO\Sladkarnica\bin\Debug\Sladkarnica.exe.config
+C:\Users\STUDENTS-1\3D Objects\Lubo 11d\LUBO\Sladkarnica\bin\Debug\Sladkarnica.exe
+C:\Users\STUDENTS-1\3D Objects\Lubo 11d\LUBO\Sladkarnica\bin\Debug\Sladkarnica.pdb
+C:\Users\STUDENTS-1\3D Objects\Lubo 11d\LUBO\Sladkarnica\obj\Debug\Sladkarnica.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1\3D Objects\Lubo 11d\LUBO\Sladkarnica\obj\Debug\Sladkarnica.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENTS-1\3D Objects\Lubo 11d\LUBO\Sladkarnica\obj\Debug\Sladkarnica.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1\3D Objects\Lubo 11d\LUBO\Sladkarnica\obj\Debug\Sladkarnica.exe
+C:\Users\STUDENTS-1\3D Objects\Lubo 11d\LUBO\Sladkarnica\obj\Debug\Sladkarnica.pdb

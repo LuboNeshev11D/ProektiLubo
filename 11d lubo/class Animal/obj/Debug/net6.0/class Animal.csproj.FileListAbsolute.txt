@@ -1,0 +1,15 @@
+C:\Users\STUDENTS-1\3D Objects\Lubo 11d\11d lubo\class Animal\bin\Debug\net6.0\class Animal.exe
+C:\Users\STUDENTS-1\3D Objects\Lubo 11d\11d lubo\class Animal\bin\Debug\net6.0\class Animal.deps.json
+C:\Users\STUDENTS-1\3D Objects\Lubo 11d\11d lubo\class Animal\bin\Debug\net6.0\class Animal.runtimeconfig.json
+C:\Users\STUDENTS-1\3D Objects\Lubo 11d\11d lubo\class Animal\bin\Debug\net6.0\class Animal.dll
+C:\Users\STUDENTS-1\3D Objects\Lubo 11d\11d lubo\class Animal\bin\Debug\net6.0\class Animal.pdb
+C:\Users\STUDENTS-1\3D Objects\Lubo 11d\11d lubo\class Animal\obj\Debug\net6.0\class Animal.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1\3D Objects\Lubo 11d\11d lubo\class Animal\obj\Debug\net6.0\class Animal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENTS-1\3D Objects\Lubo 11d\11d lubo\class Animal\obj\Debug\net6.0\class Animal.AssemblyInfoInputs.cache
+C:\Users\STUDENTS-1\3D Objects\Lubo 11d\11d lubo\class Animal\obj\Debug\net6.0\class Animal.AssemblyInfo.cs
+C:\Users\STUDENTS-1\3D Objects\Lubo 11d\11d lubo\class Animal\obj\Debug\net6.0\class Animal.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1\3D Objects\Lubo 11d\11d lubo\class Animal\obj\Debug\net6.0\class Animal.dll
+C:\Users\STUDENTS-1\3D Objects\Lubo 11d\11d lubo\class Animal\obj\Debug\net6.0\refint\class Animal.dll
+C:\Users\STUDENTS-1\3D Objects\Lubo 11d\11d lubo\class Animal\obj\Debug\net6.0\class Animal.pdb
+C:\Users\STUDENTS-1\3D Objects\Lubo 11d\11d lubo\class Animal\obj\Debug\net6.0\class Animal.genruntimeconfig.cache
+C:\Users\STUDENTS-1\3D Objects\Lubo 11d\11d lubo\class Animal\obj\Debug\net6.0\ref\class Animal.dll

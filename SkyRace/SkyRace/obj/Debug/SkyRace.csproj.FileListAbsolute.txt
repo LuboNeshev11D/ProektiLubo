@@ -1,0 +1,8 @@
+C:\Users\STUDENTS-1\3D Objects\Lubo 11d\SkyRace\SkyRace\bin\Debug\SkyRace.exe.config
+C:\Users\STUDENTS-1\3D Objects\Lubo 11d\SkyRace\SkyRace\bin\Debug\SkyRace.exe
+C:\Users\STUDENTS-1\3D Objects\Lubo 11d\SkyRace\SkyRace\bin\Debug\SkyRace.pdb
+C:\Users\STUDENTS-1\3D Objects\Lubo 11d\SkyRace\SkyRace\obj\Debug\SkyRace.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1\3D Objects\Lubo 11d\SkyRace\SkyRace\obj\Debug\SkyRace.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENTS-1\3D Objects\Lubo 11d\SkyRace\SkyRace\obj\Debug\SkyRace.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1\3D Objects\Lubo 11d\SkyRace\SkyRace\obj\Debug\SkyRace.exe
+C:\Users\STUDENTS-1\3D Objects\Lubo 11d\SkyRace\SkyRace\obj\Debug\SkyRace.pdb

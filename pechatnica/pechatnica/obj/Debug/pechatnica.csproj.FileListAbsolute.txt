@@ -1,0 +1,3 @@
+C:\Users\STUDENTS-1\3D Objects\Lubo 11d\pechatnica\pechatnica\obj\Debug\pechatnica.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1\3D Objects\Lubo 11d\pechatnica\pechatnica\obj\Debug\pechatnica.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENTS-1\3D Objects\Lubo 11d\pechatnica\pechatnica\obj\Debug\pechatnica.csproj.CoreCompileInputs.cache

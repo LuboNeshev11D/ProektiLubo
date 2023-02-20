@@ -1,0 +1,8 @@
+C:\Users\STUDENTS-1\3D Objects\Lubo 11d\nasledqvane\bin\Debug\nasledqvane.exe.config
+C:\Users\STUDENTS-1\3D Objects\Lubo 11d\nasledqvane\bin\Debug\nasledqvane.exe
+C:\Users\STUDENTS-1\3D Objects\Lubo 11d\nasledqvane\bin\Debug\nasledqvane.pdb
+C:\Users\STUDENTS-1\3D Objects\Lubo 11d\nasledqvane\obj\Debug\nasledqvane.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1\3D Objects\Lubo 11d\nasledqvane\obj\Debug\nasledqvane.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENTS-1\3D Objects\Lubo 11d\nasledqvane\obj\Debug\nasledqvane.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1\3D Objects\Lubo 11d\nasledqvane\obj\Debug\nasledqvane.exe
+C:\Users\STUDENTS-1\3D Objects\Lubo 11d\nasledqvane\obj\Debug\nasledqvane.pdb

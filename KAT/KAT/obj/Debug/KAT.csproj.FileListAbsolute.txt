@@ -1,0 +1,8 @@
+C:\Users\STUDENTS-1\3D Objects\Lubo 11d\KAT\KAT\bin\Debug\KAT.exe.config
+C:\Users\STUDENTS-1\3D Objects\Lubo 11d\KAT\KAT\bin\Debug\KAT.exe
+C:\Users\STUDENTS-1\3D Objects\Lubo 11d\KAT\KAT\bin\Debug\KAT.pdb
+C:\Users\STUDENTS-1\3D Objects\Lubo 11d\KAT\KAT\obj\Debug\KAT.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1\3D Objects\Lubo 11d\KAT\KAT\obj\Debug\KAT.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENTS-1\3D Objects\Lubo 11d\KAT\KAT\obj\Debug\KAT.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1\3D Objects\Lubo 11d\KAT\KAT\obj\Debug\KAT.exe
+C:\Users\STUDENTS-1\3D Objects\Lubo 11d\KAT\KAT\obj\Debug\KAT.pdb

@@ -1,0 +1,8 @@
+C:\Users\STUDENTS-1\3D Objects\Lubo 11d\12d\12d\obj\Debug\12d.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1\3D Objects\Lubo 11d\12d\12d\obj\Debug\12d.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENTS-1\3D Objects\Lubo 11d\12d\12d\obj\Debug\12d.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1\3D Objects\Lubo 11d\12d\12d\bin\Debug\12d.exe.config
+C:\Users\STUDENTS-1\3D Objects\Lubo 11d\12d\12d\bin\Debug\12d.exe
+C:\Users\STUDENTS-1\3D Objects\Lubo 11d\12d\12d\bin\Debug\12d.pdb
+C:\Users\STUDENTS-1\3D Objects\Lubo 11d\12d\12d\obj\Debug\12d.exe
+C:\Users\STUDENTS-1\3D Objects\Lubo 11d\12d\12d\obj\Debug\12d.pdb
